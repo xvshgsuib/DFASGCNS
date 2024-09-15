@@ -1,4 +1,4 @@
-DFASGCNS：A Prognostic Model for Ovarian Cancer Prediction Based on Dual Fusion Channels and Stacked Graph Convolu-tion
+DFASGCNS：A Prognostic Model for Ovarian Cancer Prediction Based on Dual Fusion Channels and Stacked Graph Convolution
 =====================
 1.Introduction
 -------------
